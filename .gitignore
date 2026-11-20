@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Compiled C core (built automatically on first run)
+*.so
+*.dll
+*.dylib
+
+# Local data and outputs
+data/
+results/
+*.npz
