@@ -4,7 +4,7 @@
 face-to-face 3D ICs: full Open3DBench instances of up to 39,814 terminals
 solved in seconds, with an independent optimality certificate.**
 
-> Paper: *[arXiv link to be added]*
+> Paper: https://doi.org/10.48550/arXiv.2611.14928
 
 ---
 
